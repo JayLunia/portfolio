@@ -243,10 +243,10 @@ textarea {
 
 .work:hover {
   transform: scale(1.02);
-  transition: all 0.3s;
+  transition: all 0.1s;
   background-color: var(--orange);
   background-repeat: no-repeat;
-  outline:1px solid var(--orange);
+  outline:2px solid var(--orange);
 
 }
 
@@ -254,13 +254,9 @@ textarea {
   position: absolute;
   top: 50%;
   transform: translate(0%, -50%);
-  visibility: hidden;
+  /* visibility: hidden; */
   text-align: left;
 
-}
-
-.work:hover .work-content {
-  visibility: visible;
 }
 
 /* timeline */
