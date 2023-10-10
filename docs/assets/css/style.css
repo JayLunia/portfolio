@@ -137,6 +137,8 @@
   .img {
     max-width: auto;
   }
+
+  
 }
 
 .blink {
@@ -149,7 +151,12 @@
   .blink {
     font-size: 36px;
   }
+  .carousel-img{
+    height: 65vh !important;
+  }
+  
 }
+
 
 @keyframes blink {
   to {
