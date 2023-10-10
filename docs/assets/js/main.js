@@ -372,7 +372,7 @@ $(document).ready(function () {
 		]
 	};
 
-	const words = [" Web Developer.", " Freelancer.", " Coder.", " Python Programmer.", " Data Analysis.", " ML Engineer."];
+	const words = [" Web Developer.", " Freelancer.", " Coder.", " Developer", " Data Analyst.", " ML Engineer."];
 
 
 	// Function calling
