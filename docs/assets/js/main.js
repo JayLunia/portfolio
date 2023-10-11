@@ -4,11 +4,6 @@ $(document).ready(function () {
 	const colors = ["#FF5733","#FFC300","#FF0066","#00FF66","#FF66B2","#FF3333","#FF9933", "#CC33FF","#99FF33","#FF3399","#00FFCC","#FF99CC","#99FF66","#FF66FF","#FFCC00","#F77321"
 	]
 
-
-
-
-
-
 	const education = [
 		{
 			title: 'Diploma in Web Development',
